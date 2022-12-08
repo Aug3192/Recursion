@@ -1,0 +1,4 @@
+def myXOR(p,q):
+    # 関数を完成させてください
+    if not p==q: return True
+    else: return False
